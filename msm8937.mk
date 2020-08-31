@@ -152,6 +152,10 @@ PRODUCT_PACKAGES += \
 # Charger
 include $(LOCAL_PATH)/rootdir/charger/charger.mk
 
+# Dex
+PRODUCT_DEXPREOPT_SPEED_APPS += \
+    Settings
+
 # Display
 PRODUCT_PACKAGES += \
     copybit.msm8937 \
