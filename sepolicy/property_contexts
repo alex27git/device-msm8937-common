@@ -3,3 +3,6 @@ persist.camera.                    u:object_r:camera_prop:s0
 
 # Power
 vendor.powerhal.                        u:object_r:vendor_power_prop:s0
+
+# Dolby
+persist.vendor.dolby.loglevel                 u:object_r:vendor_dolby_loglevel_prop:s0
