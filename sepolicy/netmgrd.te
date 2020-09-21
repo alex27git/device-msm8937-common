@@ -1,0 +1,1 @@
+allow netmgrd kernel:system module_request;
